@@ -1,0 +1,18 @@
+# Entornos y caché
+.venv/
+__pycache__/
+*.pyc
+
+# Datos (los datos no se versionan con Git)
+data/
+*.csv
+*.parquet
+
+# Secretos
+.env
+*credentials*.json
+service-account*.json
+
+# Notebooks / IDE
+.ipynb_checkpoints/
+.vscode/
