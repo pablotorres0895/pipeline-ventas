@@ -8,3 +8,7 @@ def show_print():
     print("this is a print function")
 
 print("Extract")
+
+#First bad comment
+#Second fix
+#Third Change
